@@ -8,3 +8,4 @@
 | [0619-biggest-single-number](https://github.com/astha9900/Leetcode-/tree/master/0619-biggest-single-number) |
 | [1877-find-followers-count](https://github.com/astha9900/Leetcode-/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/astha9900/Leetcode-/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/astha9900/Leetcode-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
