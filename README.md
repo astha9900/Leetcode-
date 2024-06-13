@@ -29,3 +29,15 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+# Array
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
