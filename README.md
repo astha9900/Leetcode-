@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/astha9900/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/astha9900/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/astha9900/Leetcode-/tree/master/0572-subtree-of-another-tree) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/astha9900/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
@@ -65,3 +68,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/astha9900/Leetcode-/tree/master/0572-subtree-of-another-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/astha9900/Leetcode-/tree/master/0101-symmetric-tree) |
