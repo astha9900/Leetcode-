@@ -43,6 +43,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -72,3 +73,11 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/astha9900/Leetcode-/tree/master/0101-symmetric-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
