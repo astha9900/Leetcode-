@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/astha9900/Leetcode-/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -52,6 +53,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/astha9900/Leetcode-/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -81,3 +83,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/astha9900/Leetcode-/tree/master/0075-sort-colors) |
