@@ -61,6 +61,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
+| [0633-sum-of-square-numbers](https://github.com/astha9900/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -89,3 +90,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/astha9900/Leetcode-/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/astha9900/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/astha9900/Leetcode-/tree/master/0633-sum-of-square-numbers) |
