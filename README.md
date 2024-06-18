@@ -46,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/astha9900/Leetcode-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/astha9900/Leetcode-/tree/master/0118-pascals-triangle) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/astha9900/Leetcode-/tree/master/0118-pascals-triangle) |
 # Two Pointers
 |  |
 | ------- |
