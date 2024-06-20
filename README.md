@@ -12,6 +12,7 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/astha9900/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/astha9900/Leetcode-/tree/master/0739-daily-temperatures) |
@@ -73,6 +74,7 @@
 # String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/astha9900/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/astha9900/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 # Hash Function
 |  |
