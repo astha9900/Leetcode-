@@ -14,6 +14,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/astha9900/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/astha9900/Leetcode-/tree/master/0739-daily-temperatures) |
 # Tree
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/astha9900/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/astha9900/Leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [0739-daily-temperatures](https://github.com/astha9900/Leetcode-/tree/master/0739-daily-temperatures) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/astha9900/Leetcode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -99,3 +101,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/astha9900/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/astha9900/Leetcode-/tree/master/0739-daily-temperatures) |
