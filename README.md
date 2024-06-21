@@ -94,6 +94,7 @@
 | [0053-maximum-subarray](https://github.com/astha9900/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/astha9900/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/astha9900/Leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/astha9900/Leetcode-/tree/master/1013-fibonacci-number) |
 # Two Pointers
 |  |
 | ------- |
@@ -103,7 +104,16 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/astha9900/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/astha9900/Leetcode-/tree/master/1013-fibonacci-number) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/astha9900/Leetcode-/tree/master/0739-daily-temperatures) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/astha9900/Leetcode-/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/astha9900/Leetcode-/tree/master/1013-fibonacci-number) |
