@@ -147,4 +147,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
