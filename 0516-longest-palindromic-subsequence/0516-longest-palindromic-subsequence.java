@@ -8,12 +8,11 @@ class Solution {
                     dp[i][j]=dp[i-1][j-1]+1;
                 }
                 else{
-                    int ans1=dp[i-1][j];
-                    int ans2=dp[i][j-1];
-                    dp[i][j]=Math.max(ans1,ans2);
+                    dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
                 }
             }
         }
         return dp[n][n];
+        
     }
 }
