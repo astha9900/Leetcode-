@@ -139,6 +139,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -159,5 +160,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
