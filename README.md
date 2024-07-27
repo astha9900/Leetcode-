@@ -131,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
