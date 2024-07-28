@@ -132,6 +132,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/astha9900/Leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/astha9900/Leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
