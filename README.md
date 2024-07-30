@@ -133,6 +133,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/astha9900/Leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0518-coin-change-ii](https://github.com/astha9900/Leetcode-/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/astha9900/Leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/astha9900/Leetcode-/tree/master/0494-target-sum) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
