@@ -125,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/astha9900/Leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/astha9900/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
