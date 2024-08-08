@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
