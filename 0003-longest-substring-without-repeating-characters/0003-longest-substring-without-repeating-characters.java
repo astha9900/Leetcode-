@@ -8,7 +8,7 @@ class Solution {
         while(j<n){ 
             if(!hs.contains(s.charAt(j))){
                 hs.add(s.charAt(j));
-                max=Math.max(max,hs.size());
+                max=Math.max(max,j-i+1);
                 j++;
             }
             else{
