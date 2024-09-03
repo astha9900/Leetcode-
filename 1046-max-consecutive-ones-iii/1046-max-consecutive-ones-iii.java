@@ -3,8 +3,8 @@ class Solution {
         int a=0;
         int b=0;
         int count=0;
-        int n=nums.length;
         int max=0;
+        int n=nums.length;
         while(b<n){
             if(nums[b]==0){
                 count++;
@@ -16,7 +16,7 @@ class Solution {
                 a++;
             }
             b++;
-            max=Math.max(max,b-a);
+            max=Math.max(b-a,max);
         }
         return max;
         
