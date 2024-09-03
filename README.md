@@ -125,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -142,6 +143,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
+| [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -156,6 +158,7 @@
 | [0518-coin-change-ii](https://github.com/astha9900/Leetcode-/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/astha9900/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/astha9900/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -168,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
