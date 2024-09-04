@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
