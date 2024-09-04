@@ -265,14 +265,17 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/astha9900/Leetcode-/tree/master/0476-number-complement) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
