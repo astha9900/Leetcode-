@@ -160,6 +160,7 @@
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/astha9900/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/astha9900/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
