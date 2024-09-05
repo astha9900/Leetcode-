@@ -148,6 +148,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/astha9900/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -167,6 +168,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
