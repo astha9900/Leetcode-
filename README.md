@@ -158,6 +158,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/astha9900/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/astha9900/Leetcode-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/astha9900/Leetcode-/tree/master/0518-coin-change-ii) |
+| [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -230,6 +233,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
@@ -299,4 +303,8 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
