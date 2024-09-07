@@ -233,6 +233,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
@@ -264,6 +265,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/astha9900/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Breadth-First Search
@@ -289,6 +291,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
