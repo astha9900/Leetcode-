@@ -151,6 +151,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/astha9900/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/astha9900/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -313,6 +314,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/astha9900/Leetcode-/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/astha9900/Leetcode-/tree/master/0476-number-complement) |
 ## Binary Search Tree
 |  |
