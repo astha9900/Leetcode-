@@ -233,6 +233,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
@@ -291,6 +292,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0328-odd-even-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
