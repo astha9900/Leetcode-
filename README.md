@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/astha9900/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
@@ -238,6 +239,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/astha9900/Leetcode-/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/astha9900/Leetcode-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/astha9900/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
@@ -300,6 +302,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/astha9900/Leetcode-/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/astha9900/Leetcode-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/astha9900/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0328-odd-even-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/astha9900/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
