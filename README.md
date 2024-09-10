@@ -174,6 +174,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/astha9900/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/astha9900/Leetcode-/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
@@ -302,6 +304,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/astha9900/Leetcode-/tree/master/0669-trim-a-binary-search-tree) |
 ## Linked List
@@ -321,6 +324,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/astha9900/Leetcode-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/astha9900/Leetcode-/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/astha9900/Leetcode-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Binary Search Tree
