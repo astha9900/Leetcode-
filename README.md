@@ -156,6 +156,7 @@
 | [0152-maximum-product-subarray](https://github.com/astha9900/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/astha9900/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/astha9900/Leetcode-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/astha9900/Leetcode-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/astha9900/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
@@ -246,6 +247,7 @@
 | [0148-sort-list](https://github.com/astha9900/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astha9900/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/astha9900/Leetcode-/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
