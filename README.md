@@ -125,6 +125,7 @@
 | [0001-two-sum](https://github.com/astha9900/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astha9900/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/astha9900/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/astha9900/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astha9900/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/astha9900/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/astha9900/Leetcode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha9900/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/astha9900/Leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/astha9900/Leetcode-/tree/master/1250-longest-common-subsequence) |
@@ -228,6 +230,7 @@
 | [0015-3sum](https://github.com/astha9900/Leetcode-/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/astha9900/Leetcode-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/astha9900/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
