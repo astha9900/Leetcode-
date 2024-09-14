@@ -1,13 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
         String st=String.valueOf(x);
-        int lp=0;
-        int rp=st.length()-1;
-        while(lp<rp){
-            if(st.charAt(lp)!=st.charAt(rp))
-            return false;
-            lp++;
-            rp--;
+        int a=0;
+        int b=st.length()-1;
+        while(a<b){
+            if(st.charAt(a)!=st.charAt(b)){
+                return false;
+            }
+            else{
+                a++;
+                b--;
+            }
         }
         return true;
         
