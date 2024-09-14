@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astha9900/Leetcode-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/astha9900/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -242,6 +243,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/astha9900/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/astha9900/Leetcode-/tree/master/0061-rotate-list) |
@@ -345,6 +347,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/astha9900/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/astha9900/Leetcode-/tree/master/0611-valid-triangle-number) |
 ## Recursion
 |  |
