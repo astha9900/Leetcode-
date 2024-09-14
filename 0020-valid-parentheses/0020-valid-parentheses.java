@@ -4,19 +4,18 @@ class Solution {
             return false;
         }
         Stack<Character> st=new Stack<>();
-        int n=s.length();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(ch=='('||ch=='{'||ch=='['){
+            if(ch=='('||ch=='['||ch=='{'){
                 st.push(ch);
             }
-            else if(!st.isEmpty()&&ch==')'&& st.peek()=='('){
+            else if(!st.isEmpty()&&ch==')'&&st.peek()=='('){
                 st.pop();
             }
-            else if(!st.isEmpty()&&ch=='}'&& st.peek()=='{'){
+            else if(!st.isEmpty()&&ch==']'&&st.peek()=='['){
                 st.pop();
             }
-            else if(!st.isEmpty()&& ch==']'&& st.peek()=='['){
+            else if(!st.isEmpty()&&ch=='}'&&st.peek()=='{'){
                 st.pop();
             }
             else{
@@ -24,7 +23,6 @@ class Solution {
             }
         }
         return st.isEmpty();
-
         
     }
 }
