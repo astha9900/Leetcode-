@@ -149,6 +149,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha9900/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/astha9900/Leetcode-/tree/master/0136-single-number) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/astha9900/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/astha9900/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/astha9900/Leetcode-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/astha9900/Leetcode-/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/astha9900/Leetcode-/tree/master/0148-sort-list) |
