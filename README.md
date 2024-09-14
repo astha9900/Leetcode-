@@ -193,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/astha9900/Leetcode-/tree/master/0009-palindrome-number) |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
