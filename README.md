@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/astha9900/Leetcode-/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/astha9900/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
@@ -342,6 +343,7 @@
 | ------- |
 | [0136-single-number](https://github.com/astha9900/Leetcode-/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/astha9900/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/astha9900/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/astha9900/Leetcode-/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/astha9900/Leetcode-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Binary Search Tree
