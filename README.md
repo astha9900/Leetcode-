@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/astha9900/Leetcode-/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/astha9900/Leetcode-/tree/master/0322-coin-change) |
+| [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0110-balanced-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/astha9900/Leetcode-/tree/master/0669-trim-a-binary-search-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,4 +368,8 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/astha9900/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/astha9900/Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
