@@ -303,6 +303,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/astha9900/Leetcode-/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
 |  |
@@ -318,6 +319,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/astha9900/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/astha9900/Leetcode-/tree/master/0669-trim-a-binary-search-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
@@ -371,5 +373,10 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
