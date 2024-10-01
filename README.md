@@ -177,6 +177,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/astha9900/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/astha9900/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/astha9900/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/astha9900/Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
@@ -200,6 +201,7 @@
 | [0009-palindrome-number](https://github.com/astha9900/Leetcode-/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/astha9900/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/astha9900/Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/astha9900/Leetcode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
@@ -405,4 +407,8 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/astha9900/Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
