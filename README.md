@@ -196,6 +196,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/astha9900/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/astha9900/Leetcode-/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/astha9900/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [1642-water-bottles](https://github.com/astha9900/Leetcode-/tree/master/1642-water-bottles) |
