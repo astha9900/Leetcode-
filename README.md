@@ -243,6 +243,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/astha9900/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/astha9900/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/astha9900/Leetcode-/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/astha9900/Leetcode-/tree/master/0948-sort-an-array) |
 ## Quickselect
@@ -308,6 +309,7 @@
 | [0210-course-schedule-ii](https://github.com/astha9900/Leetcode-/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/astha9900/Leetcode-/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
@@ -328,6 +330,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/astha9900/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/astha9900/Leetcode-/tree/master/0669-trim-a-binary-search-tree) |
+| [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
@@ -384,6 +387,7 @@
 | [0207-course-schedule](https://github.com/astha9900/Leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/astha9900/Leetcode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/astha9900/Leetcode-/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/astha9900/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
@@ -398,5 +402,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/astha9900/Leetcode-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/astha9900/Leetcode-/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
